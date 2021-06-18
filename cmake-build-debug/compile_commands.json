@@ -1,0 +1,112 @@
+[
+{
+  "directory": "/cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug",
+  "command": "/usr/bin/c++  -DINC_TESTING_CODE -DSINGLE_TABLE_CONSTANTS  -g   -Wall -Wextra -g -O0 -std=gnu++11 -o CMakeFiles/SingleTableVirtualMemory.dir/VirtualMemory.cpp.o -c /cs/usr/mota33/CLionProjects/OSEX4Testing/VirtualMemory.cpp",
+  "file": "/cs/usr/mota33/CLionProjects/OSEX4Testing/VirtualMemory.cpp"
+},
+{
+  "directory": "/cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug",
+  "command": "/usr/bin/c++  -DINC_TESTING_CODE -DSINGLE_TABLE_CONSTANTS  -g   -Wall -Wextra -g -O0 -std=gnu++11 -o CMakeFiles/SingleTableVirtualMemory.dir/PhysicalMemory.cpp.o -c /cs/usr/mota33/CLionProjects/OSEX4Testing/PhysicalMemory.cpp",
+  "file": "/cs/usr/mota33/CLionProjects/OSEX4Testing/PhysicalMemory.cpp"
+},
+{
+  "directory": "/cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug",
+  "command": "/usr/bin/c++  -DINC_TESTING_CODE -DTEST_CONSTANTS  -g   -Wall -Wextra -g -O0 -std=gnu++11 -o CMakeFiles/TestVirtualMemory.dir/VirtualMemory.cpp.o -c /cs/usr/mota33/CLionProjects/OSEX4Testing/VirtualMemory.cpp",
+  "file": "/cs/usr/mota33/CLionProjects/OSEX4Testing/VirtualMemory.cpp"
+},
+{
+  "directory": "/cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug",
+  "command": "/usr/bin/c++  -DINC_TESTING_CODE -DTEST_CONSTANTS  -g   -Wall -Wextra -g -O0 -std=gnu++11 -o CMakeFiles/TestVirtualMemory.dir/PhysicalMemory.cpp.o -c /cs/usr/mota33/CLionProjects/OSEX4Testing/PhysicalMemory.cpp",
+  "file": "/cs/usr/mota33/CLionProjects/OSEX4Testing/PhysicalMemory.cpp"
+},
+{
+  "directory": "/cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug",
+  "command": "/usr/bin/c++  -DINC_TESTING_CODE -DUNREACHABLE_FRAMES_CONSTANTS  -g   -Wall -Wextra -g -O0 -std=gnu++11 -o CMakeFiles/UnreachableFramesVirtualMemory.dir/VirtualMemory.cpp.o -c /cs/usr/mota33/CLionProjects/OSEX4Testing/VirtualMemory.cpp",
+  "file": "/cs/usr/mota33/CLionProjects/OSEX4Testing/VirtualMemory.cpp"
+},
+{
+  "directory": "/cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug",
+  "command": "/usr/bin/c++  -DINC_TESTING_CODE -DUNREACHABLE_FRAMES_CONSTANTS  -g   -Wall -Wextra -g -O0 -std=gnu++11 -o CMakeFiles/UnreachableFramesVirtualMemory.dir/PhysicalMemory.cpp.o -c /cs/usr/mota33/CLionProjects/OSEX4Testing/PhysicalMemory.cpp",
+  "file": "/cs/usr/mota33/CLionProjects/OSEX4Testing/PhysicalMemory.cpp"
+},
+{
+  "directory": "/cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug",
+  "command": "/usr/bin/c++  -DINC_TESTING_CODE -DNO_EVICTION_CONSTANTS  -g   -Wall -Wextra -g -O0 -std=gnu++11 -o CMakeFiles/NoEvictionVirtualMemory.dir/VirtualMemory.cpp.o -c /cs/usr/mota33/CLionProjects/OSEX4Testing/VirtualMemory.cpp",
+  "file": "/cs/usr/mota33/CLionProjects/OSEX4Testing/VirtualMemory.cpp"
+},
+{
+  "directory": "/cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug",
+  "command": "/usr/bin/c++  -DINC_TESTING_CODE -DNO_EVICTION_CONSTANTS  -g   -Wall -Wextra -g -O0 -std=gnu++11 -o CMakeFiles/NoEvictionVirtualMemory.dir/PhysicalMemory.cpp.o -c /cs/usr/mota33/CLionProjects/OSEX4Testing/PhysicalMemory.cpp",
+  "file": "/cs/usr/mota33/CLionProjects/OSEX4Testing/PhysicalMemory.cpp"
+},
+{
+  "directory": "/cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug",
+  "command": "/usr/bin/c++  -DINC_TESTING_CODE -DNORMAL_CONSTANTS  -g   -Wall -Wextra -g -O0 -std=gnu++11 -o CMakeFiles/VirtualMemory.dir/VirtualMemory.cpp.o -c /cs/usr/mota33/CLionProjects/OSEX4Testing/VirtualMemory.cpp",
+  "file": "/cs/usr/mota33/CLionProjects/OSEX4Testing/VirtualMemory.cpp"
+},
+{
+  "directory": "/cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug",
+  "command": "/usr/bin/c++  -DINC_TESTING_CODE -DNORMAL_CONSTANTS  -g   -Wall -Wextra -g -O0 -std=gnu++11 -o CMakeFiles/VirtualMemory.dir/PhysicalMemory.cpp.o -c /cs/usr/mota33/CLionProjects/OSEX4Testing/PhysicalMemory.cpp",
+  "file": "/cs/usr/mota33/CLionProjects/OSEX4Testing/PhysicalMemory.cpp"
+},
+{
+  "directory": "/cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug",
+  "command": "/usr/bin/c++  -DINC_TESTING_CODE -DOFFSET_DIFFERENT_FROM_INDEX  -g   -Wall -Wextra -g -O0 -std=gnu++11 -o CMakeFiles/OffsetDifferentThanIndexMemory.dir/VirtualMemory.cpp.o -c /cs/usr/mota33/CLionProjects/OSEX4Testing/VirtualMemory.cpp",
+  "file": "/cs/usr/mota33/CLionProjects/OSEX4Testing/VirtualMemory.cpp"
+},
+{
+  "directory": "/cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug",
+  "command": "/usr/bin/c++  -DINC_TESTING_CODE -DOFFSET_DIFFERENT_FROM_INDEX  -g   -Wall -Wextra -g -O0 -std=gnu++11 -o CMakeFiles/OffsetDifferentThanIndexMemory.dir/PhysicalMemory.cpp.o -c /cs/usr/mota33/CLionProjects/OSEX4Testing/PhysicalMemory.cpp",
+  "file": "/cs/usr/mota33/CLionProjects/OSEX4Testing/PhysicalMemory.cpp"
+},
+{
+  "directory": "/cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug/tests",
+  "command": "/usr/bin/c++  -DINC_TESTING_CODE -DSINGLE_TABLE_CONSTANTS -I/cs/usr/mota33/CLionProjects/OSEX4Testing/tests/.. -isystem /cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug/tests/googletest-src/googletest/include -isystem /cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug/tests/googletest-src/googletest  -g   -Wall -Wextra -g -O0 -std=gnu++11 -o CMakeFiles/ex4Tests_SingleTable.dir/kb_tests.cpp.o -c /cs/usr/mota33/CLionProjects/OSEX4Testing/tests/kb_tests.cpp",
+  "file": "/cs/usr/mota33/CLionProjects/OSEX4Testing/tests/kb_tests.cpp"
+},
+{
+  "directory": "/cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug/tests",
+  "command": "/usr/bin/c++  -DINC_TESTING_CODE -DOFFSET_DIFFERENT_FROM_INDEX -I/cs/usr/mota33/CLionProjects/OSEX4Testing/tests/.. -isystem /cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug/tests/googletest-src/googletest/include -isystem /cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug/tests/googletest-src/googletest  -g   -Wall -Wextra -g -O0 -std=gnu++11 -o CMakeFiles/ex4Tests_OffsetDifferentThanIndex.dir/kb_tests.cpp.o -c /cs/usr/mota33/CLionProjects/OSEX4Testing/tests/kb_tests.cpp",
+  "file": "/cs/usr/mota33/CLionProjects/OSEX4Testing/tests/kb_tests.cpp"
+},
+{
+  "directory": "/cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug/tests",
+  "command": "/usr/bin/c++  -DINC_TESTING_CODE -DNORMAL_CONSTANTS -I/cs/usr/mota33/CLionProjects/OSEX4Testing/tests/.. -isystem /cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug/tests/googletest-src/googletest/include -isystem /cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug/tests/googletest-src/googletest  -g   -Wall -Wextra -g -O0 -std=gnu++11 -o CMakeFiles/ex4Tests_NormalConstants.dir/kb_tests.cpp.o -c /cs/usr/mota33/CLionProjects/OSEX4Testing/tests/kb_tests.cpp",
+  "file": "/cs/usr/mota33/CLionProjects/OSEX4Testing/tests/kb_tests.cpp"
+},
+{
+  "directory": "/cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug/tests",
+  "command": "/usr/bin/c++  -DINC_TESTING_CODE -DTEST_CONSTANTS -I/cs/usr/mota33/CLionProjects/OSEX4Testing/tests/.. -isystem /cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug/tests/googletest-src/googletest/include -isystem /cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug/tests/googletest-src/googletest  -g   -Wall -Wextra -g -O0 -std=gnu++11 -o CMakeFiles/ex4Tests_SmallConstants.dir/kb_tests.cpp.o -c /cs/usr/mota33/CLionProjects/OSEX4Testing/tests/kb_tests.cpp",
+  "file": "/cs/usr/mota33/CLionProjects/OSEX4Testing/tests/kb_tests.cpp"
+},
+{
+  "directory": "/cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug/tests",
+  "command": "/usr/bin/c++  -DINC_TESTING_CODE -DNO_EVICTION_CONSTANTS -I/cs/usr/mota33/CLionProjects/OSEX4Testing/tests/.. -isystem /cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug/tests/googletest-src/googletest/include -isystem /cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug/tests/googletest-src/googletest  -g   -Wall -Wextra -g -O0 -std=gnu++11 -o CMakeFiles/ex4Tests_NoEviction.dir/kb_tests.cpp.o -c /cs/usr/mota33/CLionProjects/OSEX4Testing/tests/kb_tests.cpp",
+  "file": "/cs/usr/mota33/CLionProjects/OSEX4Testing/tests/kb_tests.cpp"
+},
+{
+  "directory": "/cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug/tests",
+  "command": "/usr/bin/c++  -DINC_TESTING_CODE -DUNREACHABLE_FRAMES_CONSTANTS -I/cs/usr/mota33/CLionProjects/OSEX4Testing/tests/.. -isystem /cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug/tests/googletest-src/googletest/include -isystem /cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug/tests/googletest-src/googletest  -g   -Wall -Wextra -g -O0 -std=gnu++11 -o CMakeFiles/ex4Tests_UnreachableFrames.dir/kb_tests.cpp.o -c /cs/usr/mota33/CLionProjects/OSEX4Testing/tests/kb_tests.cpp",
+  "file": "/cs/usr/mota33/CLionProjects/OSEX4Testing/tests/kb_tests.cpp"
+},
+{
+  "directory": "/cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug/tests/googletest-build/googlemock",
+  "command": "/usr/bin/c++   -isystem /cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug/tests/googletest-src/googlemock/include -isystem /cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug/tests/googletest-src/googlemock -isystem /cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug/tests/googletest-src/googletest/include -isystem /cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug/tests/googletest-src/googletest  -g   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug/tests/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug/tests/googletest-src/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug/tests/googletest-build/googlemock",
+  "command": "/usr/bin/c++   -I/cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug/tests/googletest-src/googlemock/include -I/cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug/tests/googletest-src/googlemock -isystem /cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug/tests/googletest-src/googletest/include -isystem /cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug/tests/googletest-src/googletest  -g   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug/tests/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug/tests/googletest-src/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug/tests/googletest-build/googletest",
+  "command": "/usr/bin/c++   -isystem /cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug/tests/googletest-src/googletest/include -isystem /cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug/tests/googletest-src/googletest  -g   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug/tests/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug/tests/googletest-src/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug/tests/googletest-build/googletest",
+  "command": "/usr/bin/c++   -I/cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug/tests/googletest-src/googletest/include -I/cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug/tests/googletest-src/googletest  -g   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug/tests/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/cs/usr/mota33/CLionProjects/OSEX4Testing/cmake-build-debug/tests/googletest-src/googletest/src/gtest-all.cc"
+}
+]
